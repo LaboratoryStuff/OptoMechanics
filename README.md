@@ -1,7 +1,18 @@
 # Opto-Mechanic Devices
 -------
-Each folder contains the drawings for opto-mechanical device.
+OM-001-010 : Optical Posts 1/2" with 50 mm, 75 mm, 100 mm and 150 mm.
 
+OM-001-020 : Post Holder 1/2" with 50 mm, 75 mm and 100 mm.
+
+OM-001-030 : Pedestal Base Adapter.
+
+OM-001-040 : Clamp for Pedestal Base Adapter.
+
+OM-001-050 : Post Collar 1/2".
+
+OM-001-006 : Elbow 1/2".
+
+OM-001-007 : Bracket 90º.
 
 OM-002-010 : Support in V-shape. It can hold small diode lasers or other tubular items.
 
@@ -14,4 +25,4 @@ OM-009-010 : Camp for OM-002-010, OM-002-020 supports and OM-004-010.
 ------
 To be added next:
 
-OM-004-010 : Rotation table fr prisms and beam-slippers.
+OM-004-010 : Rotation table for prisms and beam-slippers.
