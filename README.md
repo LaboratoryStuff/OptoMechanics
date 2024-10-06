@@ -26,3 +26,9 @@ OM-009-010 : Camp for OM-002-010, OM-002-020 supports and OM-004-010.
 To be added next:
 
 OM-004-010 : Rotation table for prisms and beam-slippers.
+
+OM-006-010 : Square Optics Holder 25x25.
+
+OM-007-010 : Aerial rail.
+
+OM-007-020 : Aerial rail carrier.
