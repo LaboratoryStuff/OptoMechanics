@@ -20,14 +20,16 @@ OM-003-010 : Lens support in V-shape. It can hold lenses with diameters between 
 
 OM-005-010 : Small Bracket 90º.
 
+OM-006-010 : Retangular Optics Holder.
+
 OM-009-010 : Camp for OM-002-010, OM-002-020 supports and OM-004-010.
+
+OM-999-010 : Thumb Screw.
 
 ------
 To be added next:
 
 OM-004-010 : Rotation table for prisms and beam-slippers.
-
-OM-006-010 : Square Optics Holder 25x25.
 
 OM-007-010 : Aerial rail.
 
