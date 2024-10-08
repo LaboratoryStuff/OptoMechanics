@@ -20,7 +20,9 @@ OM-003-010 : Lens support in V-shape. It can hold lenses with diameters between 
 
 OM-005-010 : Small Bracket 90º.
 
-OM-005-020 : Small Bracket 90º for pptical posts.
+OM-005-020 : Small Bracket 90º (35x10x10) for optical posts.
+
+OM-005-021 : Small Bracket 90º (30x10x10) for optical posts.
 
 OM-006-010 : Retangular Optics Holder.
 
