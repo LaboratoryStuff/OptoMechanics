@@ -20,6 +20,8 @@ OM-002-030 : Support in V-shape to hold optical fibres.
 
 OM-003-010 : Lens support in V-shape. It can hold lenses with diameters between 8 and 85 mm, or up to 110 mm for lenses with an edge thickness of <3 mm.
 
+OM-004-020 : Small rotating platform.
+
 OM-005-010 : Small Bracket 90º.
 
 OM-005-020 : Small Bracket 90º (35x10x10) for optical posts.
