@@ -16,6 +16,8 @@ OM-002-010 : Support in V-shape. It can hold small diode lasers or other tubular
 
 OM-002-020 : Support in V-shape. It can hold He-Ne lasers or other tubular items.
 
+OM-002-030 : Support in V-shape to hold optical fibres.
+
 OM-003-010 : Lens support in V-shape. It can hold lenses with diameters between 8 and 85 mm, or up to 110 mm for lenses with an edge thickness of <3 mm.
 
 OM-005-010 : Small Bracket 90º.
