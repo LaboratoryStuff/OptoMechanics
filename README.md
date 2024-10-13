@@ -38,6 +38,8 @@ OM-007-020 : Aerial Rail Carrier.
 
 OM-009-010 : Camp for OM-002-010, OM-002-020 supports and OM-004-010.
 
+OM-999-002 : Thumb Screw.
+
 OM-999-010 : Thumb Screw.
 
 ------
