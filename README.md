@@ -30,6 +30,10 @@ OM-005-021 : Small Bracket 90º (30x10x10) for optical posts.
 
 OM-006-010 : Retangular Optics Holder.
 
+OM-007-010 : Aerial Rail 75 mm length.
+
+OM-007-011 : Aerial Rail 50 mm length.
+
 OM-009-010 : Camp for OM-002-010, OM-002-020 supports and OM-004-010.
 
 OM-999-010 : Thumb Screw.
@@ -38,7 +42,5 @@ OM-999-010 : Thumb Screw.
 To be added next:
 
 OM-004-010 : Rotation table for prisms and beam-slippers.
-
-OM-007-010 : Aerial rail.
 
 OM-007-020 : Aerial rail carrier.
