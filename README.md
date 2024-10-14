@@ -38,6 +38,8 @@ OM-007-020 : Aerial Rail Carrier.
 
 OM-009-010 : Camp for OM-002-010, OM-002-020 supports and OM-004-010.
 
+OM-010-010 : Aerial Linear Stage Z = 25 mm.
+
 OM-999 : Screws
 
 ------
